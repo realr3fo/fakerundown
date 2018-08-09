@@ -1,0 +1,148 @@
+[
+  {
+    "start": "08:00",
+    "end": "10:00",
+    "day" : 1,
+    "title": "Registration",
+    "location": "Lobby, Margo Hotel, Depok"
+  },
+  {
+    "start": "09:15",
+    "end": "10:00",
+    "day" : 1,
+    "title": "Opening Ceremony by Rector of UI & Dean of Faculty of Administrative Science",
+    "location": "Convention Hall, Margo Hotel, Depok"
+  },
+  {
+    "start": "10:00",
+    "end": "10:15",
+    "day" : 1,
+    "title": "Group Photo",
+    "location": "Convention Hall, Margo Hotel, Depok"
+  },
+  {
+    "start": "10:15",
+    "end": "10:30",
+    "day" : 1,
+    "title": "Coffee Break",
+    "location": ""
+  },
+  {
+    "start": "10:30",
+    "end": "12:00",
+    "day" : 1,
+    "title": "Plenary Session 1",
+    "location": "Convention Hall, Margo Hotel, Depok",
+    "speakers": [
+      {
+        "name": "Drs. Teguh Widjinarko, MPA",
+        "title": "Expert Staff of Performance Culture Administrative and Bureaucratic Reform, the Republic of Indonesia"
+      },
+      {
+        "name": "Prof. Heungsuk Choi, Ph.D",
+        "title": "Korea University, and President of Korean Association for Public Administration (KAPA)"
+      }
+    ]
+  },
+  {
+      "start": "12:00",
+      "end": "13:15",
+      "day" : 1,
+      "title": "Lunch",
+      "location": "Coffee Shop, Margo Hotel, Depok"
+  },
+  {
+    "start": "13:15",
+    "end": "15:15",
+    "day" : 1,
+    "title": "Parallel Session 1",
+    "location": "Parallel Sessions Room (Burgundy 7 - 11), Margo Hotel, Depok"
+  },
+  {
+    "start": "15:15",
+    "end": "15:30",
+    "day" : 1,
+    "title": "Coffee Break",
+    "location": ""
+  },
+  {
+    "start": "15:30",
+    "end": "17:30",
+    "day" : 1,
+    "title": "Parallel Session 2",
+    "location": "Parallel Sessions Room (Burgundy 7 - 11), Margo Hotel, Depok"
+  },
+  {
+    "start": "19:00",
+    "end": "21:00",
+    "day" : 1,
+    "title": "Welcoming Dinner",
+    "location": "Convention Hall, Margo Hotel, Depok"
+  },
+  {
+    "start": "08:30",
+    "end": "10:30",
+    "day" : 2,
+    "title": "Parallel Session 3",
+    "location": "Parallel Sessions Room (Burgundy 7 - 11), Margo Hotel, Depok"
+  },
+  {
+    "start": "10:30",
+    "end": "11:00",
+    "day" : 2,
+    "title": "Coffee Break",
+    "location": ""
+  },
+  {
+    "start": "11:00",
+    "end": "12:30",
+    "day" : 2,
+    "title": "Plenary Session 2",
+    "location": "Convention Hall, Margo Hotel, Depok",
+    "speakers": [
+      {
+        "name": "Dr. Phil. Hora Tjitra",
+        "title": "Managing Director, Tjitra Consulting"
+      },
+      {
+        "name": "Prof. Dr. Evan Berman",
+        "title": "Victoria University of Wellington, New Zealand"
+      }
+    ],
+    "moderators": [
+      {
+        "name": "Dr. Vishnu Juwono",
+        "title": "Head of International Office, Faculty of Administrative Science, Universitas Indonesia"
+      }
+    ]
+  },
+  {
+    "start": "12:30",
+    "end": "13:30",
+    "day" : 2,
+    "title": "Lunch",
+    "location" : "Coffee Shop, Margo Hotel, Depok"
+  },
+  {
+    "start": "13:30",
+    "end": "15:30",
+    "day" : 2,
+    "title": "Parallel Session 4",
+    "location": "Parallel Sessions Room (Burgundy 7 - 11), Margo Hotel, Depok"
+  },
+  {
+    "start": "15:30",
+    "end": "16:00",
+    "day" : 2,
+    "title": "Coffee Break",
+    "location": ""
+  },
+  {
+    "start": "16:00",
+    "end": "16:30",
+    "day" : 2,
+    "title": "Closing Ceremony and Announcements",
+    "location": "Convention Hall, Margo Hotel, Depok"
+  }
+]
+
