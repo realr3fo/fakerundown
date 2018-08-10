@@ -5,6 +5,7 @@
         "start": "08:00",
         "end": "10:00",
         "day" : 1,
+        "priority" : 1,
         "title": "Registration",
         "location": "Lobby, Margo Hotel, Depok"
       },
@@ -12,6 +13,7 @@
         "start": "09:15",
         "end": "10:00",
         "day" : 1,
+        "priority" : 2,
         "title": "Opening Ceremony by Rector of UI & Dean of Faculty of Administrative Science",
         "location": "Convention Hall, Margo Hotel, Depok"
       },
@@ -19,6 +21,7 @@
         "start": "10:00",
         "end": "10:15",
         "day" : 1,
+        "priority" : 3,
         "title": "Group Photo",
         "location": "Convention Hall, Margo Hotel, Depok"
       },
@@ -26,6 +29,7 @@
         "start": "10:15",
         "end": "10:30",
         "day" : 1,
+        "priority" : 4,
         "title": "Coffee Break",
         "location": ""
       },
@@ -33,6 +37,7 @@
         "start": "10:30",
         "end": "12:00",
         "day" : 1,
+        "priority" : 5,
         "title": "Plenary Session 1",
         "location": "Convention Hall, Margo Hotel, Depok",
         "speakers": [
@@ -50,6 +55,7 @@
           "start": "12:00",
           "end": "13:15",
           "day" : 1,
+          "priority" : 6,
           "title": "Lunch",
           "location": "Coffee Shop, Margo Hotel, Depok"
       },
@@ -57,6 +63,7 @@
         "start": "13:15",
         "end": "15:15",
         "day" : 1,
+        "priority" : 7,
         "title": "Parallel Session 1",
         "location": "Parallel Sessions Room (Burgundy 7 - 11), Margo Hotel, Depok"
       },
@@ -64,6 +71,7 @@
         "start": "15:15",
         "end": "15:30",
         "day" : 1,
+        "priority" : 8,
         "title": "Coffee Break",
         "location": ""
       },
@@ -71,6 +79,7 @@
         "start": "15:30",
         "end": "17:30",
         "day" : 1,
+        "priority" : 9,
         "title": "Parallel Session 2",
         "location": "Parallel Sessions Room (Burgundy 7 - 11), Margo Hotel, Depok"
       },
@@ -78,6 +87,7 @@
         "start": "19:00",
         "end": "21:00",
         "day" : 1,
+        "priority" : 10,
         "title": "Welcoming Dinner",
         "location": "Convention Hall, Margo Hotel, Depok"
       },
@@ -85,6 +95,7 @@
         "start": "08:30",
         "end": "10:30",
         "day" : 2,
+        "priority" : 1,
         "title": "Parallel Session 3",
         "location": "Parallel Sessions Room (Burgundy 7 - 11), Margo Hotel, Depok"
       },
@@ -92,6 +103,7 @@
         "start": "10:30",
         "end": "11:00",
         "day" : 2,
+        "priority" : 2,
         "title": "Coffee Break",
         "location": ""
       },
@@ -99,6 +111,7 @@
         "start": "11:00",
         "end": "12:30",
         "day" : 2,
+        "priority" : 3,
         "title": "Plenary Session 2",
         "location": "Convention Hall, Margo Hotel, Depok",
         "speakers": [
@@ -122,6 +135,7 @@
         "start": "12:30",
         "end": "13:30",
         "day" : 2,
+        "priority" : 4,
         "title": "Lunch",
         "location" : "Coffee Shop, Margo Hotel, Depok"
       },
@@ -129,6 +143,7 @@
         "start": "13:30",
         "end": "15:30",
         "day" : 2,
+        "priority" : 5,
         "title": "Parallel Session 4",
         "location": "Parallel Sessions Room (Burgundy 7 - 11), Margo Hotel, Depok"
       },
@@ -136,6 +151,7 @@
         "start": "15:30",
         "end": "16:00",
         "day" : 2,
+        "priority" : 6,
         "title": "Coffee Break",
         "location": ""
       },
@@ -143,6 +159,7 @@
         "start": "16:00",
         "end": "16:30",
         "day" : 2,
+        "priority" : 7,
         "title": "Closing Ceremony and Announcements",
         "location": "Convention Hall, Margo Hotel, Depok"
       }
